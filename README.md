@@ -5,9 +5,20 @@
 
 ##### Analysis  Question:
 ###### We will conduct a descriptive analysis to evaluate if the true temperature has increased in the United States by looking at the daily temperatures at every airport.
+###### We will need to do some sort of comparison for this that will also connect to our challenge, spatial analysis. One possibility for this could be how tempurature increases have varied based on state, on distance from the ocean, on elevation, or on distance from some other landmark or impactful variable
 
 ##### Challenge:
 ###### We will work with spatial analysis and program an interactive map of the United States that will yield graphs of the selected location's temperature over time.
+###### We will use geographic coordinates, likely broken down by zip codes
 
 ##### Data:
 ######
+
+
+##### Data 1
+https://gist.github.com/erichurst/7882666
+<script src="https://gist.github.com/erichurst/7882666.js"></script>
+###### A GitHub .CSV file with Longitude and Latitude for each US Zip Code. Doesn't count as one of our two sets since it's pre-cleaned
+
+https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html
+###### This is a census dataset we may be able to use, cleaning it ourselves instead of using the pre-prepared one
