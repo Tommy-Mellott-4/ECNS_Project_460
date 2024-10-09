@@ -12,17 +12,13 @@
 ###### We will use geographic coordinates, likely broken down by zip codes.
 
 ##### Data:
-######
-
-
-##### Data 1
+##### Data Source 1:
 https://gist.github.com/erichurst/7882666
 <script src="https://gist.github.com/erichurst/7882666.js"></script>
 ###### A GitHub .CSV file with Longitude and Latitude for each US Zip Code. Doesn't count as one of our two sets since it's pre-cleaned
-
 https://www.census.gov/programs-surveys/geography/guidance/geo-areas/zctas.html
 ###### This is a census dataset we may be able to use, cleaning it ourselves instead of using the pre-prepared one
 
-
+##### Data Source 2:
 https://www1.ncdc.noaa.gov/pub/data/ghcn/daily/
 ###### The Website is currently down due to the hurricanes in the Carolinas (per Dr. Atwood); however, I was informed that this has historical daily data for 127,933 weather stations throughout the world.
