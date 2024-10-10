@@ -1,14 +1,14 @@
 # ECNS_Project_460
 
 ##### Topic:
-###### Our topic will be to evaluate historic daily weather data from all airports throughout the United States. We will specifically evaluate the daily high and low and see how it has changed over time - looking for real insight into climate change. 
+###### Our topic will be to evaluate historic daily weather data from all airports throughout the United States. We will focus on the daily high and low as well as the daily volatility to explore how temperature has changed over time in the same location.  
 
 ##### Analysis  Question:
 ###### We will conduct a descriptive analysis to evaluate if the true temperature has increased in the United States by looking at the daily temperatures at every airport. This will be a time series analysis.
 ###### We will need to do some sort of comparison for this that will also connect to our challenge, spatial analysis. One possibility for this could be how tempurature increases have varied based on state, on distance from the ocean, on elevation, or on distance from some other landmark or impactful variable.
 
 ##### Challenge:
-###### We will work with spatial analysis and program an interactive map of the United States that will yield graphs of the selected location's temperature over time.
+###### We will work on learning and applying spatial analysis to program an interactive map of the United States that will yield graphs of the selected location's temperature over time.
 ###### We will use geographic coordinates, likely broken down by zip codes.
 
 ##### Data:
