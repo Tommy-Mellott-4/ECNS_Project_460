@@ -1,0 +1,21 @@
+Some of the R Code is not made directly by us. 
+
+We first use Run0, code provided by Dr. Atwood, to establish a working directory. Other Code of his we dont use much include Run1, Run2, and Misc_Functions
+
+In order, to get to the point we are now, run: 
+
+Download_Specific_AiportData.R
+
+my_GHCN_functions.R
+
+OrganizeSpecificData.R
+
+Tables Work - 460 Project.R
+
+----
+
+We based this primarily on these two datasets
+
+station_info/WORLD-TEMP-Stations-1900-2024.RData
+
+ station_info/ghcnd-stations.RData
